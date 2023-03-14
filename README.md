@@ -2,8 +2,6 @@
 
 <div data-theme-toc="true"> </div>
 
-https://github.com/GiorgosPanagopoulos/awesome-influence-maximization-papers
-
 # Survey and Book
 - TKDE: https://ieeexplore.ieee.org/document/8295265
 - KIS [A survey on influence maximization in a social network](https://link.springer.com/article/10.1007/s10115-020-01461-4 )
