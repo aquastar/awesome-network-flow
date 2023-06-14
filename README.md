@@ -1,4 +1,4 @@
-# awesome-network-flow
+# awesome-graph-flow
 
 <div data-theme-toc="true"> </div>
 
